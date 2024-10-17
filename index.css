@@ -21,9 +21,13 @@ img^{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #5bbe42 Green;
+    border: 5px solid color:
 }
 
 .center{
     text-align: center;
+}
+
+h1{
+  color: #5bbe42 ;
 }
