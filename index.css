@@ -14,20 +14,20 @@ padding: 16px;
 
 a {
 color: white;
-text decoration: none
+text decoration-none 
 }
 
-img^{
+img{
     width: 150px;
     height: 150px;
-    border-radius: 50%;
-    border: 5px solid color:
+    border-radius
+    border: 5px solid #5BBE42;
 }
+
 
 .center{
     text-align: center;
 }
-
 h1{
   color: #5bbe42 ;
 }
