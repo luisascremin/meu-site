@@ -20,7 +20,7 @@ text decoration-none
 img {
     width: 150px;
     height: 150px;
-    border-raidus:50%
+    border-raidus: 50%
     border: 5x solid green; 
  }
 
@@ -33,6 +33,6 @@ h1{
 }
 
  footer img {
-     width: 20px;
-    height: 20px;
+     width: 40px;
+    height: 40px;
 }
