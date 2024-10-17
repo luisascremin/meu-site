@@ -17,12 +17,12 @@ color: white;
 text decoration-none 
 }
 
-img{
+img {
     width: 150px;
     height: 150px;
-    border-radius
-    border: 5px solid #5BBE42;
-}
+    border-raidus:50%
+    border: 5x solid green; 
+ }
 
 
 .center{
