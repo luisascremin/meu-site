@@ -24,10 +24,15 @@ img {
     border: 5x solid green; 
  }
 
-
-.center{
+ .center{
     text-align: center;
 }
+
 h1{
   color: #5bbe42 ;
+}
+
+ footer img {
+     width: 20px;
+    height: 20px;
 }
